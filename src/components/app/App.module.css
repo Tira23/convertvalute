@@ -1,0 +1,9 @@
+.wrapper {
+  max-width: 80vw;
+  min-height: 95vh;
+  margin: 20px auto;
+  box-shadow: 1px 1px 10px 1px black;
+  border-radius: 10px;
+}
+
+/*# sourceMappingURL=App.module.css.map */
